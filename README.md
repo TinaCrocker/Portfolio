@@ -6,4 +6,4 @@ Evidence of my data science / analytics / engineering competencies for employers
 
 
 
-I love 🐶 📈, and :book:.
+I love 📈,:book: and 🐶.
